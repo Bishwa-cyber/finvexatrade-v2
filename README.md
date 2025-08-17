@@ -1,6 +1,23 @@
 # FinvexTrade 🚀
 
+
 A comprehensive trading application that combines a React Native mobile app with a robust backend server, providing users with real-time crypto trading capabilities, market analysis, and portfolio management.
+
+## Screenshots
+
+Here are some screenshots from the mobile app:
+
+![Screenshot 1](./mobile/assets/images/1.jpeg)
+
+![Screenshot 2](./mobile/assets/images/2.jpeg)
+
+![Screenshot 3](./mobile/assets/images/3.jpeg)
+
+![Screenshot 4](./mobile/assets/images/4.jpeg)
+
+![Screenshot 5](./mobile/assets/images/5.jpeg)
+
+![Screenshot 6](./mobile/assets/images/6.jpeg)
 
 ## 🌟 Features
 
