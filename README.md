@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # FinvexTrade 🚀
 
 
@@ -14,8 +19,8 @@ Here are some smaller screenshots from the mobile app:
 </div>
 
 <div style='margin-top: 10px;'>
-  <img src='./mobile/assets/images/4.jpeg' alt='Screenshot 4' width='200' style='margin-right:16px' />
-  <img src='./mobile/assets/images/5.jpeg' alt='Screenshot 5' width='200' style='margin-right:16px' />
+  <img src='./mobile/assets/images/4.jpeg' alt='Screenshot 4' width='200' style='margin-right:14px' />
+  <img src='./mobile/assets/images/5.jpeg' alt='Screenshot 5' width='200' style='margin-right:14px' />
   <img src='./mobile/assets/images/6.jpeg' alt='Screenshot 6' width='200' />
 </div>
 
@@ -119,20 +124,36 @@ npx expo build:ios # for iOS
 ## 📁 Project Structure
 
 finvexatrade-v2/
+
 ├── mobile/ # React Native mobile application
+
 │ ├── app/ # App screens and navigation
+
 │ ├── components/ # Reusable UI components
+
 │ ├── assets/ # Images and static files
+
 │ ├── utils/ # Utility functions
+
 │ ├── services/ # API calls and external services
+
 │ └── package.json # Mobile dependencies
+
 ├── backend/ # Node.js backend server
+
 │ ├── routes/ # API routes
+
 │ ├── models/ # Database models
+
 │ ├── middleware/ # Custom middleware
+
 │ ├── server.js # Main server file
+
 │ └── package.json # Backend dependencies
+│
+
 ├── README.md # This file
+
 └── package.json # Root project configuration
 
 
