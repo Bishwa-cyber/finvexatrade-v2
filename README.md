@@ -5,19 +5,20 @@ A comprehensive trading application that combines a React Native mobile app with
 
 ## Screenshots
 
-Here are some screenshots from the mobile app:
+Here are some smaller screenshots from the mobile app:
 
-![Screenshot 1](./mobile/assets/images/1.jpeg)
+<div>
+  <img src='./mobile/assets/images/1.jpeg' alt='Screenshot 1' width='200' style='margin-right:10px' />
+  <img src='./mobile/assets/images/2.jpeg' alt='Screenshot 2' width='200' style='margin-right:10px' />
+  <img src='./mobile/assets/images/3.jpeg' alt='Screenshot 3' width='200' />
+</div>
 
-![Screenshot 2](./mobile/assets/images/2.jpeg)
+<div style='margin-top: 10px;'>
+  <img src='./mobile/assets/images/4.jpeg' alt='Screenshot 4' width='200' style='margin-right:10px' />
+  <img src='./mobile/assets/images/5.jpeg' alt='Screenshot 5' width='200' style='margin-right:10px' />
+  <img src='./mobile/assets/images/6.jpeg' alt='Screenshot 6' width='200' />
+</div>
 
-![Screenshot 3](./mobile/assets/images/3.jpeg)
-
-![Screenshot 4](./mobile/assets/images/4.jpeg)
-
-![Screenshot 5](./mobile/assets/images/5.jpeg)
-
-![Screenshot 6](./mobile/assets/images/6.jpeg)
 
 ## 🌟 Features
 
