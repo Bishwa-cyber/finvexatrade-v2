@@ -22,9 +22,12 @@ Here are some smaller screenshots from the mobile app:
   <img src='./mobile/assets/images/8.jpeg' alt='Screenshot 5' width='200' style='margin-right:16px' />
   <img src='./mobile/assets/images/5.jpeg' alt='Screenshot 5' width='200' style='margin-right:14px' />
   <img src='./mobile/assets/images/6.jpeg' alt='Screenshot 6' width='200' />
-  <img src='./mobile/assets/images/9.jpeg' alt='Screenshot 6' width='200' />
+ 
 </div>
 
+<div style='margin-top: 10px;'>
+  <img src='./mobile/assets/images/9.jpeg' alt='Screenshot 6' width='200' />
+</div>
 
 
 ## 🌟 Features
